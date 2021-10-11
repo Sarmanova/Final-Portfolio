@@ -2,6 +2,9 @@
 
 Single-page web app portfolio using React to showcase some of my recent projects.
 
+## Deployed Link:
+
+https://zhansaya-final-portfolio.herokuapp.com/
 
 
 ## License
