@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name":"Zhansaya Sarmanova",
+    "description":"Junior Full-Stack Web Developer living in Austin, TX. Highly skilled set development in the Software Development field. Learn more about me and check out some of the cool things I have been working on down below.",
+    "image":"profilepic.jpg",
+    "bio":"Full Stack Web Developer (MERN).Graduated Full Stack Software Development Certification Program in UT Austin Bootcamp. Highly skilled set development in the Software Development field. Driven, dedicated and passionate on achieving high level results,ambitious problem solver looking to join a forward thinking software development team. Experienced with developing front-end, back-end, and full stack web applications.",
+    "contactmessage":"Feel free to send me a message.",
+    "email": "zhansayasarmanova1993@gmail.com",
+    "github":"https://github.com/Sarmanova",
+    "address":{
+       "city":"Austin",
+      "state":"Texas"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1i7L_jXac0Gyl2PDb23fIG589Qy7iRnPp/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+    
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/zhansaya-sarmanova/",
+        "className":"fa fa-linkedin"
+      },
+            {
+        "name":"github",
+        "url":"https://github.com/Sarmanova",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"There are some of the languages and tools, I have been using lately. ",
+    "education":[
+      {
+        "school":"University of Texas at Austin, Remote",
+        "degree":"Full Stack Web Development ",
+        "graduated":"September 2021",
+        "description":"Full Stack Web Development Coding Boot Camp "
+      },
+      {
+        "school":"Dosmukhamedov State University, Atyrau Kazakhstan    ",
+        "degree":"Biology",
+        "graduated":"May 2014",
+        "description":"Bachelor of Biology Degree."
+      }
+    ],
+    "work":[
+      {
+        "company":"Marrakech Moroccan Restaurant San Francisco, CA",
+        "title":"RESTRAURANT MANAGER",
+        "years":"January 2018– March 2020",
+        "description":"Effectively coordinated daily restaurant management operations, resulting in greater productivity and higher levels of customer satisfaction. Successfully managed a family restaurant, increasing sales by 40% through exceptional service and family value"
+      },
+      {
+        "company":"Isker Consortium Company Atyrau, Kazakhstan",
+        "title":"DOCUMENT CONTOL SPECIALIST",
+        "years":"August 2015 – August 2017",
+        "description":"Controlled all mechanical documents, checklists, transmittals and reported directly to the manager.Uploaded documents to control sites, tracked transmittals and coordinated revisions."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"66%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      }, 
+      {
+        "name":"GraphQL",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
