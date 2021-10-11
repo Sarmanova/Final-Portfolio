@@ -11,12 +11,11 @@
        "city":"Austin",
       "state":"Texas"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1i7L_jXac0Gyl2PDb23fIG589Qy7iRnPp/view?usp=sharing",
+     "resumedownload":"https://drive.google.com/file/d/1i7L_jXac0Gyl2PDb23fIG589Qy7iRnPp/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/SZHK199309/",
         "className":"fa fa-facebook"
       },
     
@@ -76,8 +75,16 @@
         "level":"66%"
       },
       {
-        "name":"ReactJs",
+        "name":"React.Js",
         "level":"65%"
+      },
+      {
+        "name":"Node.Js",
+        "level":"55%"
+      },
+      {
+        "name":"Express.Js",
+        "level":"45%"
       },
       {
         "name":"MongoDB",
@@ -96,77 +103,61 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Code Quiz",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url1":"https://band--mates.herokuapp.com",
+        "url":"https://sarmanova.github.io/Code-quiz/",
+        "description":"A timed quiz on random Formula 1 facts that stores the top 3 high scores in local storage.."
+
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Pickfilx & Gril",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://cnvives.github.io/group-3/",
+        "url1":"https://github.com/cnvives/group-3",
+        "description":"A movie and recipe generator that takes in input from the user."
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Band Mates",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url1":"https://band--mates.herokuapp.com",
+        "url":"https://github.com/Sarmanova/BandMates",
+        "description":"A virtual social space for musicians to meet other musicians based on needs, preferences and a love for music!"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Sous Chef",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://sous-chef-project-2.herokuapp.com/",
+        "url1":"https://github.com/mwallis5110/Sous-Chef",
+        "description":"A web application that allows a user to browse a recipe library and save recipes to their own user homepage/dashboard."
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Workout Tracker",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://workout-tracker1993.herokuapp.com/?id=611b083c4939140016086c83",
+        "url1":"https://github.com/Sarmanova/Workout-Tracker",
+        "description":"Workout Tracker keeps all tracks on your workout and on dashboard will display all tracking information."
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Weather-Dashboard",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":" https://sarmanova.github.io/Weather-Dashboard/",
+        "url1":"https://github.com/Sarmanova/Weather-Dashboard",
+        "description":"Weather Dashboard using Open Weather API runs in the browser and features dynamically."
+      }, {
+        "title":"Node Taker",
+         "image":"07.jpg",
+        "url":" https://cryptic-meadow-17352.herokuapp.com/",
+        "url1":"https://github.com/Sarmanova/Note-Taker",
+        "description":"This note taking application allows you to save notes with a title and plain text."
+      }, {
+        "title":"Online/Offline Budget Trackers",
+        "image":"08.jpg",
+        "url":"https://budget-trackers1993.herokuapp.com/",
+        "url1":"https://github.com/Sarmanova/Offline-Budget-Trackers",
+        "description":"Budget Tracker application allows a user to add expenses and deposits to their budget with or without a connection."
       }
+      
     ]
   }
 }
