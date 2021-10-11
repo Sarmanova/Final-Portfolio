@@ -7,6 +7,12 @@ Single-page web app portfolio using React to showcase some of my recent projects
 https://zhansaya-final-portfolio.herokuapp.com/
 
 
+## Run the project
+```
+npm i
+npm start
+```
+
 ## License
 #### [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
