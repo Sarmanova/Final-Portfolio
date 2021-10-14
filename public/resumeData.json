@@ -36,7 +36,7 @@
     "education":[
       {
         "school":"University of Texas at Austin, Remote",
-        "degree":"Full Stack Web Development ",
+        "degree":"Certificate in Full Stack Web Development  ",
         "graduated":"September 2021",
         "description":"Full Stack Web Development Coding Boot Camp "
       },
@@ -64,7 +64,7 @@
     "skills":[
       {
         "name":"HTML",
-        "level":"80%"
+        "level":"50%"
       },
       {
         "name":"CSS",
@@ -72,11 +72,11 @@
       },
       {
         "name":"JavaScript",
-        "level":"66%"
+        "level":"50%"
       },
       {
         "name":"React.Js",
-        "level":"65%"
+        "level":"45%"
       },
       {
         "name":"Node.Js",
@@ -88,15 +88,15 @@
       },
       {
         "name":"MongoDB",
-        "level":"50%"
+        "level":"30%"
       },
       {
         "name":"SQL",
-        "level":"50%"
+        "level":"45%"
       }, 
       {
         "name":"GraphQL",
-        "level":"50%"
+        "level":"45%"
       }
     ]
   },
@@ -105,7 +105,7 @@
       {
         "title":"Code Quiz",
         "image":"01.jpg",
-        "url1":"https://band--mates.herokuapp.com",
+        "url1":"https://github.com/Sarmanova/Code-quiz",
         "url":"https://sarmanova.github.io/Code-quiz/",
         "description":"A timed quiz on random Formula 1 facts that stores the top 3 high scores in local storage.."
 
@@ -120,8 +120,8 @@
       {
         "title":"Band Mates",
         "image":"03.jpg",
-        "url1":"https://band--mates.herokuapp.com",
-        "url":"https://github.com/Sarmanova/BandMates",
+        "url1":"https://github.com/Sarmanova/BandMates",
+        "url":"https://band--mates.herokuapp.com",
         "description":"A virtual social space for musicians to meet other musicians based on needs, preferences and a love for music!"
       },
       {
