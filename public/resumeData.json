@@ -3,7 +3,7 @@
     "name":"Zhansaya Sarmanova",
     "description":"Junior Full-Stack Web Developer living in Austin, TX. Highly skilled set development in the Software Development field. Learn more about me and check out some of the cool things I have been working on down below.",
     "image":"profilepic.jpg",
-    "bio":"Full Stack Web Developer (MERN).Graduated Full Stack Software Development Certification Program in UT Austin Bootcamp. Highly skilled set development in the Software Development field. Driven, dedicated and passionate on achieving high level results,ambitious problem solver looking to join a forward thinking software development team. Experienced with developing front-end, back-end, and full stack web applications.",
+    "bio":"Highly motivated Full Stack Web Developer leveraging a background in technology to design, develop, and implement user – friendly applications. Graduated Full Stack Software Development Certification Program in UT Austin Bootcamp. Highly skilled set development in the Software Development field. Driven, dedicated and passionate on achieving high level results, in both a team and independent work environment.",
     "contactmessage":"Feel free to send me a message.",
     "email": "zhansayasarmanova1993@gmail.com",
     "github":"https://github.com/Sarmanova",
@@ -11,7 +11,7 @@
        "city":"Austin",
       "state":"Texas"
     },
-     "resumedownload":"https://drive.google.com/file/d/1aHijHCqyKWztzC5IGxlz_KZJ_Cl5FMBp/view?usp=sharing",
+     "resumedownload":"https://drive.google.com/file/d/1Ymno52Sov62eT6DPnNs3_HSEeayAwAqh/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -49,10 +49,16 @@
     ],
     "work":[
       {
-        "company":"Marrakech Moroccan Restaurant San Francisco, CA",
-        "title":"RESTRAURANT MANAGER",
-        "years":"January 2018– March 2020",
-        "description":"Effectively coordinated daily restaurant management operations, resulting in greater productivity and higher levels of customer satisfaction. Successfully managed a family restaurant, increasing sales by 40% through exceptional service and family value"
+        "company":"Hello World - Austin, Texas",
+        "title":"INSTRUCTOR (part time)",
+        "years":"OCtober 2021– Present",
+        "description":"Guiding and motivating students with building animation games.Supervising and assisting students to create online games using Scratch application."
+      },
+       {
+        "company":"Thousand IT Company – Almaty Kazakhstan",
+        "title":"Junior Web Developer Intern",
+        "years":"September 2018 - November 2019",
+        "description":"Worked and debugged in HTML, CSS, and JavaScript. Created HTML emails, which are also common and necessary functions.Assist in development of a science-based webpage.Establish an end interface for developer team in a website application format."
       },
       {
         "company":"Isker Consortium Company Atyrau, Kazakhstan",
@@ -97,6 +103,10 @@
       {
         "name":"GraphQL",
         "level":"45%"
+      },
+      {
+        "name":"WordPress",
+        "level":"55%"
       }
     ]
   },
