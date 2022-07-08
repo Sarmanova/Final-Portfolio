@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Zhansaya Sarmanova",
-    "description":"Junior Full-Stack Web Developer living in Austin, TX. Highly skilled set development in the Software Development field. Learn more about me and check out some of the cool things I have been working on down below.",
+    "description":"Full-Stack Web Developer living in Austin, TX. Highly skilled set development in the Software Development field. Learn more about me and check out some of the cool things I have been working on down below.",
     "image":"profilepic.jpg",
-    "bio":"Highly motivated Full Stack Web Developer leveraging a background in technology to design, develop, and implement user – friendly applications. Graduated Full Stack Software Development Certification Program in UT Austin Bootcamp. Highly skilled set development in the Software Development field. Driven, dedicated and passionate on achieving high level results, in both a team and independent work environment.",
+    "bio":"Proven software engineer with a proven ability to lead, strategize, adapt, collaborate, and deliver under strict and tight time constraints.  As a skilled leader, oversaw the development of the Bandmats GraphQL backend in a team of 3 through the course of 1 week by applying problem-solving strategies when designing the database.  As a skilled communicator, collaborated with a team of 2 frontend engineers and 2 backend engineers to design and build a full-stack application in 1 week.  I am now eager to tackle more complex challenges and create innovative ways to build robust, user-friendly solutions for real-world problems.",
     "contactmessage":"Feel free to send me a message.",
     "email": "zhansayasarmanova1993@gmail.com",
     "github":"https://github.com/Sarmanova",
@@ -11,7 +11,7 @@
        "city":"Austin",
       "state":"Texas"
     },
-     "resumedownload":"https://drive.google.com/file/d/1Ymno52Sov62eT6DPnNs3_HSEeayAwAqh/view?usp=sharing",
+     "resumedownload":"https://drive.google.com/file/d/16D-fLu9i5i7dSGgdgVnGcm5xCbIrN53R/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -35,10 +35,10 @@
     "skillmessage":"There are some of the languages and tools, I have been using lately. ",
     "education":[
       {
-        "school":"University of Texas at Austin, Remote",
-        "degree":"Certificate in Full Stack Web Development  ",
+        "school":"The University of Texas at Austin,",
+        "degree":" Web Development  ",
         "graduated":"September 2021",
-        "description":"Full Stack Web Development Coding Boot Camp "
+        "description":"Learned industry best practices for practical software development standards with a focus on HTML5, CSS3, JavaScript, jQuery, Express.js, Node.js, MySQL, React, MongoDB, GraphQL and algorithms and data structures. Built and deployed full-stack web applications while learning new languages and frameworks by collaborating 40+ hours a week with senior software engineers. Confidently delivered clear and engaging presentations to audiences."
       },
       {
         "school":"Dosmukhamedov State University, Atyrau Kazakhstan    ",
@@ -50,21 +50,15 @@
     "work":[
       {
         "company":"Hello World - Austin, Texas",
-        "title":"INSTRUCTOR (part time)",
-        "years":"OCtober 2021– Present",
-        "description":"Guiding and motivating students with building animation games.Supervising and assisting students to create online games using Scratch application."
+        "title":"Instructor",
+        "years":"October 2021– Present",
+        "description":"Led demonstrations and delivered instruction regarding logic gates, object-oriented programming and computer science fundamentals in Python and JavaScript. Mentored 5-15 students on project assignments by hosting office hours twice a week. Collaborated with 6 instructors and the Education Manager to prepare content, materials, discuss student progress, and plan future curriculum."
       },
-       {
-        "company":"Thousand IT Company – Almaty Kazakhstan",
-        "title":"Junior Web Developer Intern",
-        "years":"September 2018 - November 2019",
-        "description":"Worked and debugged in HTML, CSS, and JavaScript. Created HTML emails, which are also common and necessary functions.Assist in development of a science-based webpage.Establish an end interface for developer team in a website application format."
-      },
-      {
+             {
         "company":"Isker Consortium Company Atyrau, Kazakhstan",
-        "title":"DOCUMENT CONTOL SPECIALIST",
+        "title":"Document Control Specialist",
         "years":"August 2015 – August 2017",
-        "description":"Controlled all mechanical documents, checklists, transmittals and reported directly to the manager.Uploaded documents to control sites, tracked transmittals and coordinated revisions."
+        "description":"Collaborated directly with QA/QC inspectors to resolve issues and coordinate the correction of errors. Responsible for reviewing, digitizing mechanical documents, and checklists. Uploaded 100 weekly inspection reports to the control sites system, tracked transmittals, and completed revisions as needed."
       }
     ],
     "skills":[
