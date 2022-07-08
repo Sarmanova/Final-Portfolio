@@ -9,7 +9,7 @@ class Header extends Component {
      const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
-
+    
     return (
       <header id="home">
         <ParticlesBg type="circle" bg={true} />
@@ -68,6 +68,20 @@ class Header extends Component {
               <ul className="social">
                  <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
+                </a>
+              </ul>
+            </Fade>
+            <Fade bottom duration={2000}>
+              <ul className="socialLink">
+                <a href="https://www.linkedin.com/in/zhansaya-sarmanova/" className="button btn github-btn">
+                  <i className="fa fa-linkedin"></i>Linkedin
+                </a>
+              </ul>
+            </Fade>
+            <Fade bottom duration={2000}>
+              <ul className="socialEmail">
+                <a href="mailto:zhansayasarmanova1993@gmail.com" className="button btn github-btn">
+                  <i className="fa fa-envelope"></i>Gmail
                 </a>
               </ul>
             </Fade>

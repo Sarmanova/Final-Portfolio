@@ -80,15 +80,39 @@ header .banner-text hr {
 
 /* header social links */
 header .social {
-   margin: 24px 0;
-   padding: 0;
-   font-size: 30px;
+   margin: 5px 0;
+    margin-left: 190px;
+    padding-right: 35px;
+    padding-top: 10px;
+   font-size: 15px;
+   float: left;
 }
-header .social li {
+header .socialLink  {
+   margin: 5px 0;
+   padding-right: 35px;
+   margin-left: 5px;
+   padding-top: 9px;
+   padding-left: 25px;
+   font-size: 15px;
+   float: left;
+      
+   
+}
+header .socialEmail  {
+   margin:5px 0;
+   margin-left: 5px;
+    padding-right: 10px;
+   padding-top: 9px;
+   padding-left: 25px;
+     font-size: 15px;
+   float: left;
+}
+/* header .social li {
    display: inline-block;
    margin: 0 15px;
    padding: 0;
-}
+} */
+
 header .social li a { color: #fff; }
 header .social li a:hover { color: #1a9081; }
 
@@ -935,4 +959,27 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .github-btn{
    background-color: #34495e !important;
+}
+.socialLink .btn{
+   padding-left: 30px;
+   padding-right: 30px;
+  
+}
+.socialLink .btn i{
+   margin-right: 15px;
+}
+.socialLink .btn:first-child{
+   margin-right: 30px;
+}
+
+.socialEmail .btn{
+   padding-left: 30px;
+   padding-right: 30px;
+  
+}
+.socialEmail .btn i{
+   margin-right: 15px;
+}
+.socialEmail .btn:first-child{
+   margin-right: 30px;
 }
